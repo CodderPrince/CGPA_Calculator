@@ -1,5 +1,5 @@
 # 🎓 CGPA Calculator 📊  
-**A Beautiful, Colorful, and User-Friendly Flutter App to Calculate Semester GPA & CGPA with PDF Export Feature**
+**A Beautiful, Colorful, and User-Friendly Flutter App to Calculate Current Semester CGPA & Overall CGPA with PDF Export Feature**
 
 <div align="center">
   <img src="https://github.com/CodderPrince/Images/blob/main/cgpaIcon3C.png" alt="CGPA Calculator Logo" width="120" />
@@ -12,7 +12,7 @@
 - ✅ **Add unlimited semesters**
 - 🎯 **Dropdown for grade input (A+, A, A−, etc.)**
 - 🧮 **Instant GPA and CGPA calculation**
-- 🎨 **Colorful PDF export** with background gradient (`white → green.shade50`)
+- 🎨 **Colorful PDF export** with background gradient (`white → yellow.shade50`)
 - 📄 **PDF includes semester-wise breakdown and total CGPA**
 - 🛠️ Built with **Flutter** using **Material Design**
 - 💡 Lightweight, responsive, and intuitive UI
