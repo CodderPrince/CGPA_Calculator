@@ -11,7 +11,7 @@
 
 - ✅ **Add unlimited semesters**
 - 🎯 **Dropdown for grade input (A+, A, A−, etc.)**
-- 🧮 **Instant GPA and CGPA calculation**
+- 🧮 **Instant Current CGPA and Overall CGPA calculation**
 - 🎨 **Colorful PDF export** with background gradient (`white → yellow.shade50`)
 - 📄 **PDF includes semester-wise breakdown and total CGPA**
 - 🛠️ Built with **Flutter** using **Material Design**
@@ -54,7 +54,7 @@
 ## 🧠 Project Theme
 
 > **"Academic Utility Application for Students"**  
-> This app simplifies the process of GPA/CGPA calculation while maintaining modern design and digital document (PDF) exporting support.
+> This app simplifies the process of Current CGPA/Overall CGPA calculation while maintaining modern design and digital document (PDF) exporting support.
 
 ---
 
@@ -64,7 +64,7 @@
 2. ✅ Install it on your Android device
 3. ➕ Tap **"Add Semester"** to begin
 4. 📚 Enter subject credits and select grades
-5. 📊 Your GPA and CGPA will be calculated automatically
+5. 📊 Your Current CGPA and Overall CGPA will be calculated automatically
 6. 🖨️ Tap **"Export to PDF"** for a colorful document you can share or print
 
 ---
